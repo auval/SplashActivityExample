@@ -12,8 +12,7 @@
 
         <activity
             android:name=".SplashActivity"
-            android:icon="@mipmap/ic_splash"
-            >
+            android:icon="@mipmap/ic_splash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
@@ -37,35 +36,6 @@
             </intent-filter>
         </activity-alias>
 
-        <!--
-        <activity android:name=".MainActivity"/>
-        <activity android:name=".SplashActivity"
-
-
-
-            />
-
-        <activity-alias
-            android:name=".SplashActivityAlias"
-            android:enabled="true"
-            android:label="Splash-A"
-            android:targetActivity=".SplashActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity-alias>
-        <activity-alias
-            android:name=".MainActivityAlias"
-            android:enabled="false"
-            android:label="Splash-B"
-            android:targetActivity=".MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity-alias>
--->
     </application>
 
 </manifest>
