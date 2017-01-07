@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///media/3T/ws/SplashActivityExample/SplashActivityExample.iml" filepath="/media/3T/ws/SplashActivityExample/SplashActivityExample.iml" />
+      <module fileurl="file:///media/3T/ws/SplashActivityExample/app/app.iml" filepath="/media/3T/ws/SplashActivityExample/app/app.iml" />
+    </modules>
+  </component>
+</project>
